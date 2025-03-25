@@ -30,8 +30,8 @@ curl -O https://raw.githubusercontent.com/donatoni/tmux-catppuccin-setup-mac/mai
 ### 2. Make it executable and run
 
 ```bash
-chmod +x setup_tmux_catppuccin_v2.sh
-./setup_tmux_catppuccin_v2.sh
+chmod +x setup_tmux_catppuccin.sh
+./setup_tmux_catppuccin.sh
 ```
 
 ### 3. After installation
